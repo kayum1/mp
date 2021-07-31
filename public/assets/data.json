@@ -1,0 +1,632 @@
+{
+  "data": [
+    {
+      "section": "world",
+      "subsection": "europe",
+      "title": "Colosseum Opens Its Belly to the Public step1",
+      "abstract": "The underground warren where ancient Roman gladiators and animals awaited their fates has been restored.",
+      "url": "https://www.nytimes.com/2021/06/26/world/europe/colosseum-underground-opens.html",
+      "uri": "nyt://article/724e067a-369f-54b2-ac4c-3ab58875130b",
+      "byline": "By Elisabetta Povoledo",
+      "item_type": "Article",
+      "updated_date": "2021-06-27T16:35:44-04:00",
+      "created_date": "2021-06-26T13:16:15-04:00",
+      "published_date": "2021-06-26T13:16:15-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Historic Buildings and Sites",
+        "Restoration and Renovation",
+        "Colosseum (Rome)",
+        "Roman Civilization",
+        "Archaeology and Anthropology",
+        "Art"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": ["Rome (Italy)"],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/06/26/world/26italy-colosseum01/merlin_189872118_2467eeff-a838-4505-a3ea-f5fcdc29fbf2-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The opening of the Colosseum’s underground corridors marks the end of the second of three phases of a multimillion-euro project.",
+          "copyright": "Filippo Monteforte/Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/26/world/26italy-colosseum01/merlin_189872118_2467eeff-a838-4505-a3ea-f5fcdc29fbf2-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The opening of the Colosseum’s underground corridors marks the end of the second of three phases of a multimillion-euro project.",
+          "copyright": "Filippo Monteforte/Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/26/world/26italy-colosseum01/merlin_189872118_2467eeff-a838-4505-a3ea-f5fcdc29fbf2-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The opening of the Colosseum’s underground corridors marks the end of the second of three phases of a multimillion-euro project.",
+          "copyright": "Filippo Monteforte/Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/26/world/26italy-colosseum01/merlin_189872118_2467eeff-a838-4505-a3ea-f5fcdc29fbf2-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The opening of the Colosseum’s underground corridors marks the end of the second of three phases of a multimillion-euro project.",
+          "copyright": "Filippo Monteforte/Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/26/world/26italy-colosseum01/merlin_189872118_2467eeff-a838-4505-a3ea-f5fcdc29fbf2-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The opening of the Colosseum’s underground corridors marks the end of the second of three phases of a multimillion-euro project.",
+          "copyright": "Filippo Monteforte/Agence France-Presse — Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/35ThrdV"
+    },
+    {
+      "section": "business",
+      "subsection": "",
+      "title": "Fight and Flight: T.S.A. to Resume Self-Defense Classes for Airline Crews",
+      "abstract": "The classes, which will resume in July, come as crew members struggle with a surge in cases of unruly passengers.",
+      "url": "https://www.nytimes.com/2021/06/26/business/self-defense-course-tsa.html",
+      "uri": "nyt://article/42ff4696-28f2-53ad-b790-8998681511ae",
+      "byline": "By Eduardo Medina",
+      "item_type": "Article",
+      "updated_date": "2021-06-26T19:18:39-04:00",
+      "created_date": "2021-06-26T09:16:43-04:00",
+      "published_date": "2021-06-26T09:16:43-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Travel and Vacations",
+        "Airlines and Airplanes",
+        "Flight Attendants",
+        "Assaults",
+        "Self-Defense",
+        "Airport Security"
+      ],
+      "org_facet": [
+        "Transportation Security Administration",
+        "Association of Flight Attendants-CWA"
+      ],
+      "per_facet": ["Darby LaJoye"],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/06/25/multimedia/25xp-tsa-3/25xp-tsa-3-superJumbo-v2.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Self-defense training offered by the Transportation Security Administration is designed to help flight crew members handle tense and violent situations with passengers.",
+          "copyright": "Brian Snyder/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/25/multimedia/25xp-tsa-3/25xp-tsa-3-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Self-defense training offered by the Transportation Security Administration is designed to help flight crew members handle tense and violent situations with passengers.",
+          "copyright": "Brian Snyder/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/25/multimedia/25xp-tsa-3/25xp-tsa-3-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Self-defense training offered by the Transportation Security Administration is designed to help flight crew members handle tense and violent situations with passengers.",
+          "copyright": "Brian Snyder/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/25/multimedia/25xp-tsa-3/25xp-tsa-3-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Self-defense training offered by the Transportation Security Administration is designed to help flight crew members handle tense and violent situations with passengers.",
+          "copyright": "Brian Snyder/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/25/multimedia/25xp-tsa-3/25xp-tsa-3-articleInline-v2.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Self-defense training offered by the Transportation Security Administration is designed to help flight crew members handle tense and violent situations with passengers.",
+          "copyright": "Brian Snyder/Reuters"
+        }
+      ],
+      "short_url": "https://nyti.ms/2U2nSbZ"
+    },
+    {
+      "section": "business",
+      "subsection": "",
+      "title": "Next Year, Brits Will Fly Abroad. For Now, It’s Bognor Bingo.",
+      "abstract": "With flying discouraged, vacation spots that had been fading and unfashionable are having a moment.",
+      "url": "https://www.nytimes.com/2021/06/26/business/tourism-britain-coronavirus-bognor-regis.html",
+      "uri": "nyt://article/8ac77167-9b92-50dc-9178-b0f8ea913f31",
+      "byline": "By David Segal",
+      "item_type": "Article",
+      "updated_date": "2021-06-27T16:25:55-04:00",
+      "created_date": "2021-06-26T05:00:19-04:00",
+      "published_date": "2021-06-26T05:00:19-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Travel and Vacations",
+        "Travel Warnings",
+        "Coronavirus (2019-nCoV)",
+        "Quarantine (Life and Culture)",
+        "Coastal Areas"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": ["Great Britain", "Bognor Regis (England)"],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/06/27/business/00UK-Holiday-01/merlin_189748344_62fccc97-de0c-428b-b238-92fd9283a527-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Waterloo Square Bowling Club in Bognor Regis. The town earned the title of worst U.K. seaside resort in a 2019 consumer survey.",
+          "copyright": "Andrew Testa for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/27/business/00UK-Holiday-01/00UK-Holiday-01-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Waterloo Square Bowling Club in Bognor Regis. The town earned the title of worst U.K. seaside resort in a 2019 consumer survey.",
+          "copyright": "Andrew Testa for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/27/business/00UK-Holiday-01/00UK-Holiday-01-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Waterloo Square Bowling Club in Bognor Regis. The town earned the title of worst U.K. seaside resort in a 2019 consumer survey.",
+          "copyright": "Andrew Testa for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/27/business/00UK-Holiday-01/merlin_189748344_62fccc97-de0c-428b-b238-92fd9283a527-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Waterloo Square Bowling Club in Bognor Regis. The town earned the title of worst U.K. seaside resort in a 2019 consumer survey.",
+          "copyright": "Andrew Testa for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/27/business/00UK-Holiday-01/merlin_189748344_62fccc97-de0c-428b-b238-92fd9283a527-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Waterloo Square Bowling Club in Bognor Regis. The town earned the title of worst U.K. seaside resort in a 2019 consumer survey.",
+          "copyright": "Andrew Testa for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2UGK2kv"
+    },
+    {
+      "section": "business",
+      "subsection": "",
+      "title": "Southwest Airlines to raise minimum wage to $15 an hour to attract and retain workers.",
+      "abstract": "Pay scales vary by function and by union agreements, but the raise will boost wages by an average of $1.30 per hour. For some workers at the lower end of their pay scales, that could equate to a boost of 3 to 10 percent, the airline said.",
+      "url": "https://www.nytimes.com/2021/06/25/business/southwest-minimum-wage-15-dollars.html",
+      "uri": "nyt://article/af2fec90-161b-5272-831f-77a4aaf0520a",
+      "byline": "By Niraj Chokshi",
+      "item_type": "Article",
+      "updated_date": "2021-06-25T17:14:30-04:00",
+      "created_date": "2021-06-25T15:58:23-04:00",
+      "published_date": "2021-06-25T15:58:23-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Airlines and Airplanes",
+        "Wages and Salaries",
+        "Minimum Wage",
+        "Labor and Jobs"
+      ],
+      "org_facet": ["Southwest Airlines Company"],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/06/25/business/25economy-briefing-southwest/merlin_68594152_05738f67-9267-4cd5-8872-9969041c4ae9-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Jim Wilson/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/25/business/25economy-briefing-southwest/25economy-briefing-southwest-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Jim Wilson/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/25/business/25economy-briefing-southwest/25economy-briefing-southwest-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Jim Wilson/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/25/business/25economy-briefing-southwest/merlin_68594152_05738f67-9267-4cd5-8872-9969041c4ae9-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Jim Wilson/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/25/business/25economy-briefing-southwest/merlin_68594152_05738f67-9267-4cd5-8872-9969041c4ae9-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Jim Wilson/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3quT4gm"
+    },
+    {
+      "section": "science",
+      "subsection": "",
+      "title": "Summer Is a Scam. Here’s How to Fix It.",
+      "abstract": "Plus, typeface puzzles, the “Dragon Man” skull and more in the Friday edition of the Science Times Newsletter.",
+      "url": "https://www.nytimes.com/2021/06/25/science/summer-solstice-time.html",
+      "uri": "nyt://article/d2857370-9ce9-561b-afa7-dc56304e2e5e",
+      "byline": "By Alan Burdick",
+      "item_type": "Article",
+      "updated_date": "2021-06-26T14:13:29-04:00",
+      "created_date": "2021-06-25T13:44:20-04:00",
+      "published_date": "2021-06-25T13:44:20-04:00",
+      "material_type_facet": "",
+      "kicker": "Science Times",
+      "des_facet": [
+        "Summer (Season)",
+        "Seasons and Months",
+        "your-feed-science",
+        "your-feed-health"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": ["Arctic Regions"],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/06/25/science/25sciencetimes-newsletter1/25sciencetimes-newsletter1-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1411,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Gent Shkullaku/Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/25/science/25sciencetimes-newsletter1/25sciencetimes-newsletter1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Gent Shkullaku/Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/25/science/25sciencetimes-newsletter1/25sciencetimes-newsletter1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Gent Shkullaku/Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/25/science/25sciencetimes-newsletter1/25sciencetimes-newsletter1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Gent Shkullaku/Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/25/science/25sciencetimes-newsletter1/25sciencetimes-newsletter1-articleInline.jpg",
+          "format": "Normal",
+          "height": 131,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Gent Shkullaku/Agence France-Presse — Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/3h66Wcr"
+    },
+    {
+      "section": "travel",
+      "subsection": "",
+      "title": "Celebrity Cruises will be the first cruise line to resume sailing from a U.S. port.",
+      "abstract": "The Celebrity Edge will depart from Fort Lauderdale, Fla., on Saturday with 95 percent of its passengers all crew members vaccinated.",
+      "url": "https://www.nytimes.com/2021/06/25/travel/celebrity-cruises-resume-sailing.html",
+      "uri": "nyt://article/faf6e7de-7986-505b-af10-034422b6b458",
+      "byline": "By Ceylan Yeginsu",
+      "item_type": "Article",
+      "updated_date": "2021-06-25T22:57:41-04:00",
+      "created_date": "2021-06-25T11:33:16-04:00",
+      "published_date": "2021-06-25T11:33:16-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)",
+        "Cruises",
+        "Vaccination and Immunization"
+      ],
+      "org_facet": ["Celebrity Cruises Inc"],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/06/26/business/25cruise-print/merlin_189874884_d727e6ae-3ebf-4e90-bd58-b2cadb2dd703-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Celebrity Edge, docked at Port Everglades in Fort Lauderdale, Fla., will sail at 35 percent capacity on Saturday.",
+          "copyright": "Lynne Sladky/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/26/business/25cruise-print/25econ-brf-cruises-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Celebrity Edge, docked at Port Everglades in Fort Lauderdale, Fla., will sail at 35 percent capacity on Saturday.",
+          "copyright": "Lynne Sladky/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/26/business/25cruise-print/25econ-brf-cruises-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Celebrity Edge, docked at Port Everglades in Fort Lauderdale, Fla., will sail at 35 percent capacity on Saturday.",
+          "copyright": "Lynne Sladky/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/26/business/25cruise-print/merlin_189874884_d727e6ae-3ebf-4e90-bd58-b2cadb2dd703-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Celebrity Edge, docked at Port Everglades in Fort Lauderdale, Fla., will sail at 35 percent capacity on Saturday.",
+          "copyright": "Lynne Sladky/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/26/business/25cruise-print/merlin_189874884_d727e6ae-3ebf-4e90-bd58-b2cadb2dd703-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Celebrity Edge, docked at Port Everglades in Fort Lauderdale, Fla., will sail at 35 percent capacity on Saturday.",
+          "copyright": "Lynne Sladky/Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/3w5XkEh"
+    },
+    {
+      "section": "travel",
+      "subsection": "",
+      "title": "Specialized Experiences Offer Fresh Looks on Paris",
+      "abstract": "As visitors trickle back into the city after a heavy year, walking tours and other experiences that emphasize seldom-told stories about local life and history are taking on new resonance.",
+      "url": "https://www.nytimes.com/2021/06/25/travel/paris-walking-tours-women-blm.html",
+      "uri": "nyt://article/a04fe758-9f72-5365-9f6f-0f2bd2b9e82d",
+      "byline": "By Lindsey Tramuta",
+      "item_type": "Article",
+      "updated_date": "2021-06-25T05:00:27-04:00",
+      "created_date": "2021-06-25T05:00:27-04:00",
+      "published_date": "2021-06-25T05:00:27-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Walking",
+        "Travel and Vacations",
+        "Women and Girls",
+        "Women's Rights",
+        "Historic Buildings and Sites",
+        "Homosexuality and Bisexuality",
+        "Champagne (Wine)",
+        "Black People"
+      ],
+      "org_facet": [],
+      "per_facet": ["Hidalgo, Anne (1959- )"],
+      "geo_facet": ["Paris (France)", "Champagne Region (France)"],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/06/25/travel/25paris-tours3/merlin_189817716_a30d9959-bf2b-4de3-beaa-8f0cc1eceaf4-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1536,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Located in the Luxembourg Gardens, the le cri, l’écrit sculpture, by Fabrice Hyber, is meant to commemorate the abolition of slavery and is discussed on walking tours organized by Le Paris Noir. ",
+          "copyright": "Joann Pai for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/25/travel/25paris-tours3/merlin_189817716_a30d9959-bf2b-4de3-beaa-8f0cc1eceaf4-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Located in the Luxembourg Gardens, the le cri, l’écrit sculpture, by Fabrice Hyber, is meant to commemorate the abolition of slavery and is discussed on walking tours organized by Le Paris Noir. ",
+          "copyright": "Joann Pai for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/25/travel/25paris-tours3/merlin_189817716_a30d9959-bf2b-4de3-beaa-8f0cc1eceaf4-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Located in the Luxembourg Gardens, the le cri, l’écrit sculpture, by Fabrice Hyber, is meant to commemorate the abolition of slavery and is discussed on walking tours organized by Le Paris Noir. ",
+          "copyright": "Joann Pai for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/25/travel/25paris-tours3/merlin_189817716_a30d9959-bf2b-4de3-beaa-8f0cc1eceaf4-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Located in the Luxembourg Gardens, the le cri, l’écrit sculpture, by Fabrice Hyber, is meant to commemorate the abolition of slavery and is discussed on walking tours organized by Le Paris Noir. ",
+          "copyright": "Joann Pai for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/25/travel/25paris-tours3/merlin_189817716_a30d9959-bf2b-4de3-beaa-8f0cc1eceaf4-articleInline.jpg",
+          "format": "Normal",
+          "height": 143,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Located in the Luxembourg Gardens, the le cri, l’écrit sculpture, by Fabrice Hyber, is meant to commemorate the abolition of slavery and is discussed on walking tours organized by Le Paris Noir. ",
+          "copyright": "Joann Pai for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3gRE34X"
+    },
+    {
+      "section": "t-magazine",
+      "subsection": "",
+      "title": "The T List: Five Things We Recommend This Week",
+      "abstract": "Two new loafers from Martiniano Lopez Crozet, portraits of botanicals — and more.",
+      "url": "https://www.nytimes.com/2021/06/24/t-magazine/martiniano-lopez-crozet-shoes.html",
+      "uri": "nyt://article/056142f1-49ae-51b0-8340-91ab1f3554f1",
+      "byline": "",
+      "item_type": "Article",
+      "updated_date": "2021-06-24T09:00:15-04:00",
+      "created_date": "2021-06-24T09:00:15-04:00",
+      "published_date": "2021-06-24T09:00:15-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Shoes and Boots",
+        "Art",
+        "Travel and Vacations",
+        "Bars and Nightclubs",
+        "Hotels and Travel Lodgings"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": ["London (England)", "Boston (Mass)"],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/06/23/t-magazine/23tmag-newsletter-slide-MP9D/23tmag-newsletter-slide-MP9D-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1266,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Left: in the private dining room of Bar Crispin, the wine cabinet is made of raw steel while the lampshades are hand-painted by Viola Lanari. Right: Lanari’s plaster, steel and glass stone pendant lamps are suspended in the main bar, with turquoise steel candlestick holders by Jermaine Gallacher.",
+          "copyright": "Oskar Proctor"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/23/t-magazine/23tmag-newsletter-slide-MP9D/23tmag-newsletter-slide-MP9D-thumbStandard-v2.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Left: in the private dining room of Bar Crispin, the wine cabinet is made of raw steel while the lampshades are hand-painted by Viola Lanari. Right: Lanari’s plaster, steel and glass stone pendant lamps are suspended in the main bar, with turquoise steel candlestick holders by Jermaine Gallacher.",
+          "copyright": "Oskar Proctor"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/23/t-magazine/23tmag-newsletter-slide-MP9D/23tmag-newsletter-slide-MP9D-thumbLarge-v2.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Left: in the private dining room of Bar Crispin, the wine cabinet is made of raw steel while the lampshades are hand-painted by Viola Lanari. Right: Lanari’s plaster, steel and glass stone pendant lamps are suspended in the main bar, with turquoise steel candlestick holders by Jermaine Gallacher.",
+          "copyright": "Oskar Proctor"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/23/t-magazine/23tmag-newsletter-slide-MP9D/23tmag-newsletter-slide-MP9D-mediumThreeByTwo210-v3.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Left: in the private dining room of Bar Crispin, the wine cabinet is made of raw steel while the lampshades are hand-painted by Viola Lanari. Right: Lanari’s plaster, steel and glass stone pendant lamps are suspended in the main bar, with turquoise steel candlestick holders by Jermaine Gallacher.",
+          "copyright": "Oskar Proctor"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/06/23/t-magazine/23tmag-newsletter-slide-MP9D/23tmag-newsletter-slide-MP9D-articleInline.jpg",
+          "format": "Normal",
+          "height": 117,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Left: in the private dining room of Bar Crispin, the wine cabinet is made of raw steel while the lampshades are hand-painted by Viola Lanari. Right: Lanari’s plaster, steel and glass stone pendant lamps are suspended in the main bar, with turquoise steel candlestick holders by Jermaine Gallacher.",
+          "copyright": "Oskar Proctor"
+        }
+      ],
+      "short_url": "https://nyti.ms/2T5wEWq"
+    }
+  ]
+}

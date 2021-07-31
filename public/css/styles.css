@@ -41,8 +41,8 @@ html {
 }
 
 header {
-  height: 320px;
-  background: url(../img/img.jpg) center no-repeat;
+  height: 150px;
+  background: url(../img/skeldonMasjid.PNG) center no-repeat;
   background-size: cover;
   display: flex;
   align-items: center;

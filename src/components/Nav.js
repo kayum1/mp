@@ -5,11 +5,11 @@ const Nav = (props) => {
   return (
     <nav>
       <ul>
-        <li className='logo'>
+        {/*  <li className='logo'>
           <a href='#top'>
             <img src='img/logo.svg' alt='logo' />
           </a>
-        </li>
+        </li> */}
         {props.navItems.map((navItem, index) => (
           <NavItem
             key={index}

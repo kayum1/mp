@@ -4,9 +4,10 @@ import Nav from './Nav';
 import Loading from './loadError';
 import Stories from './stories';
 
-const navItems = ['arts', 'books', 'fashion', 'food', 'movies', 'travel'];
+const navItems = ['arts', 'books', 'fashion', 'dining', 'movies', 'travel'];
 const nytapi = 'jXsc2QdkjNLM9LiDrBYoalPGGy21A382';
-
+// const URL = 'http://localhost:8085/data';
+// const URL = `https://api.nytimes.com/svc/topstories/v2/${section}.json?api-key=${nytapi}`;
 const sleep = (ms) => {
   setTimeout(function () {
     console.log('.... waiting ', ms);
@@ -29,13 +30,31 @@ function App() {
 
   React.useEffect(() => {
     setLoading(true);
+
     <Loading />;
-    fetch(
-      `https://api.nytimes.com/svc/topstories/v2/${section}.json?api-key=${nytapi}`
-    )
+
+    // fetch(
+    //   `https://api.nytimes.com/svc/topstories/v2/${section}.json?api-key=${nytapi}`
+    // )
+    // https://api.nytimes.com/svc/topstories/v2/arts.json?api-key=jXsc2QdkjNLM9LiDrBYoalPGGy21A382
+
+    //  fetch(URL)
+    fetch('http://localhost:3000/data.json')
       .then(sleep(3000))
       .then((response) => response.json())
-      .then((data) => setStories(data.results))
+      .then((data) => {
+        console.log(`Section: ${section}`);
+        setStories(
+          data.filter((element) => {
+            if (element.section === `${section}`) {
+              console.log('Section ', element);
+              return element;
+            }
+          })
+        );
+        //  console.log(`List: ${list}`);
+        //  setStories(data); // .results);
+      })
       .then(setLoading(false))
       .catch((error) => {
         console.log(error);
@@ -48,7 +67,7 @@ function App() {
 
   return (
     <>
-      <Header siteTitle='All the news that fits to print' />
+      <Header siteTitle='Summarized Notes' />
       <Nav navItems={navItems} setSection={setSection} section={section} />
       {loading || stories.length === 0 ? (
         <Loading />
