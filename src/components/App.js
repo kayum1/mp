@@ -4,7 +4,15 @@ import Nav from './Nav';
 import Loading from './loadError';
 import Stories from './stories';
 
-const navItems = ['arts', 'books', 'fashion', 'dining', 'movies', 'travel'];
+const navItems = [
+  'dua',
+  'arts',
+  'books',
+  'fashion',
+  'dining',
+  'movies',
+  'travel',
+];
 const nytapi = 'jXsc2QdkjNLM9LiDrBYoalPGGy21A382';
 // const URL = 'http://localhost:8085/data';
 // const URL = `https://api.nytimes.com/svc/topstories/v2/${section}.json?api-key=${nytapi}`;
@@ -39,7 +47,8 @@ function App() {
     // https://api.nytimes.com/svc/topstories/v2/arts.json?api-key=jXsc2QdkjNLM9LiDrBYoalPGGy21A382
 
     //  fetch(URL)
-    fetch('http://localhost:3000/data.json')
+    // fetch('http://localhost:3000/data.json')
+    fetch('http://localhost:3000/assets/data.json')
       .then(sleep(3000))
       .then((response) => response.json())
       .then((data) => {
