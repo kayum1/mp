@@ -14,8 +14,7 @@ const Story = (props) => {
           alt='images'
         />
         <div>
-          <StoryTitle>{props.story.title}</StoryTitle>
-
+          <StoryTitle>{props.story.title}</StoryTitle> 
           <StoryPara>{props.story.abstract}</StoryPara>
         </div>
       </Entry>

@@ -8,9 +8,9 @@ const navItems = [
   'dua',
   'arts',
   'books',
-  'fashion',
-  'dining',
-  'movies',
+  // 'fashion',
+  // 'dining',
+  // 'movies',
   'travel',
 ];
 const nytapi = 'jXsc2QdkjNLM9LiDrBYoalPGGy21A382';
@@ -52,17 +52,14 @@ function App() {
       .then(sleep(3000))
       .then((response) => response.json())
       .then((data) => {
-        console.log(`Section: ${section}`);
+        console.log(`LOADING Section: ${section}`);
         setStories(
           data.filter((element) => {
             if (element.section === `${section}`) {
-              console.log('Section ', element);
               return element;
             }
           })
         );
-        //  console.log(`List: ${list}`);
-        //  setStories(data); // .results);
       })
       .then(setLoading(false))
       .catch((error) => {
