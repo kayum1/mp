@@ -48,7 +48,7 @@ function App() {
 
     //  fetch(URL)
     // fetch('http://localhost:3000/data.json')
-    fetch('http://localhost:3000/assets/data.json')
+    fetch('/assets/data.json')
       .then(sleep(3000))
       .then((response) => response.json())
       .then((data) => {
