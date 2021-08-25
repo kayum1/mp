@@ -36,7 +36,7 @@
         "copyright": "Filippo Monteforte/Agence France-Presse — Getty Images"
       },
       {
-        "url": "../img/skeldonMasjid.PNG",
+        "url": "../img/s002v151.jpg",
         "format": "Standard Thumbnail",
         "height": 75,
         "width": 75,
@@ -115,7 +115,7 @@
         "copyright": "Filippo Monteforte/Agence France-Presse — Getty Images"
       },
       {
-        "url": "../img/skeldonMasjid.PNG",
+        "url": "../img/s003v190.jpg",
         "format": "Standard Thumbnail",
         "height": 75,
         "width": 75,
@@ -194,7 +194,7 @@
         "copyright": "Filippo Monteforte/Agence France-Presse — Getty Images"
       },
       {
-        "url": "../img/skeldonMasjid.PNG",
+        "url": "../img/s006v161.jpg",
         "format": "Standard Thumbnail",
         "height": 75,
         "width": 75,
@@ -273,7 +273,327 @@
         "copyright": "Filippo Monteforte/Agence France-Presse — Getty Images"
       },
       {
-        "url": "../img/skeldonMasjid.PNG",
+        "url": "../img/s009v112.jpg",
+        "format": "Standard Thumbnail",
+        "height": 75,
+        "width": 75,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "The opening of the Colosseum’s underground corridors marks the end of the second of three phases of a multimillion-euro project.",
+        "copyright": "Filippo Monteforte/Agence France-Presse — Getty Images"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2021/06/26/world/26italy-colosseum01/merlin_189872118_2467eeff-a838-4505-a3ea-f5fcdc29fbf2-thumbLarge.jpg",
+        "format": "thumbLarge",
+        "height": 150,
+        "width": 150,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "The opening of the Colosseum’s underground corridors marks the end of the second of three phases of a multimillion-euro project.",
+        "copyright": "Filippo Monteforte/Agence France-Presse — Getty Images"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2021/06/26/world/26italy-colosseum01/merlin_189872118_2467eeff-a838-4505-a3ea-f5fcdc29fbf2-mediumThreeByTwo210.jpg",
+        "format": "mediumThreeByTwo210",
+        "height": 140,
+        "width": 210,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "The opening of the Colosseum’s underground corridors marks the end of the second of three phases of a multimillion-euro project.",
+        "copyright": "Filippo Monteforte/Agence France-Presse — Getty Images"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2021/06/26/world/26italy-colosseum01/merlin_189872118_2467eeff-a838-4505-a3ea-f5fcdc29fbf2-articleInline.jpg",
+        "format": "Normal",
+        "height": 127,
+        "width": 190,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "The opening of the Colosseum’s underground corridors marks the end of the second of three phases of a multimillion-euro project.",
+        "copyright": "Filippo Monteforte/Agence France-Presse — Getty Images"
+      }
+    ],
+    "short_url": "https://nyti.ms/35ThrdV"
+  },
+
+  {
+    "section": "dua",
+    "subsection": "europe",
+    "title": "DUA 5 - Colosseum Opens Its Belly to the Public step 2",
+    "abstract": "The underground warren where ancient Roman gladiators and animals awaited their fates has been restored.",
+    "url": "https://www.nytimes.com/2021/06/26/world/europe/colosseum-underground-opens.html",
+    "uri": "nyt://article/724e067a-369f-54b2-ac4c-3ab58875130b",
+    "byline": "By Elisabetta Povoledo",
+    "item_type": "Article",
+    "updated_date": "2021-06-27T16:35:44-04:00",
+    "created_date": "2021-06-26T13:16:15-04:00",
+    "published_date": "2021-06-26T13:16:15-04:00",
+    "material_type_facet": "",
+    "kicker": "",
+    "des_facet": [
+      "Historic Buildings and Sites",
+      "Restoration and Renovation",
+      "Colosseum (Rome)",
+      "Roman Civilization",
+      "Archaeology and Anthropology",
+      "Art"
+    ],
+    "org_facet": [],
+    "per_facet": [],
+    "geo_facet": ["Rome (Italy)"],
+    "multimedia": [
+      {
+        "url": "https://1static01.nyt.com/images/2021/06/26/world/26italy-colosseum01/merlin_189872118_2467eeff-a838-4505-a3ea-f5fcdc29fbf2-superJumbo.jpg",
+        "format": "superJumbo",
+        "height": 1365,
+        "width": 2048,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "The opening of the Colosseum’s underground corridors marks the end of the second of three phases of a multimillion-euro project.",
+        "copyright": "Filippo Monteforte/Agence France-Presse — Getty Images"
+      },
+      {
+        "url": "../img/s010v088.jpg",
+        "format": "Standard Thumbnail",
+        "height": 75,
+        "width": 75,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "The opening of the Colosseum’s underground corridors marks the end of the second of three phases of a multimillion-euro project.",
+        "copyright": "Filippo Monteforte/Agence France-Presse — Getty Images"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2021/06/26/world/26italy-colosseum01/merlin_189872118_2467eeff-a838-4505-a3ea-f5fcdc29fbf2-thumbLarge.jpg",
+        "format": "thumbLarge",
+        "height": 150,
+        "width": 150,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "The opening of the Colosseum’s underground corridors marks the end of the second of three phases of a multimillion-euro project.",
+        "copyright": "Filippo Monteforte/Agence France-Presse — Getty Images"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2021/06/26/world/26italy-colosseum01/merlin_189872118_2467eeff-a838-4505-a3ea-f5fcdc29fbf2-mediumThreeByTwo210.jpg",
+        "format": "mediumThreeByTwo210",
+        "height": 140,
+        "width": 210,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "The opening of the Colosseum’s underground corridors marks the end of the second of three phases of a multimillion-euro project.",
+        "copyright": "Filippo Monteforte/Agence France-Presse — Getty Images"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2021/06/26/world/26italy-colosseum01/merlin_189872118_2467eeff-a838-4505-a3ea-f5fcdc29fbf2-articleInline.jpg",
+        "format": "Normal",
+        "height": 127,
+        "width": 190,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "The opening of the Colosseum’s underground corridors marks the end of the second of three phases of a multimillion-euro project.",
+        "copyright": "Filippo Monteforte/Agence France-Presse — Getty Images"
+      }
+    ],
+    "short_url": "https://nyti.ms/35ThrdV"
+  },
+
+  {
+    "section": "dua",
+    "subsection": "europe",
+    "title": "DUA 6 - Colosseum Opens Its Belly to the Public step 2",
+    "abstract": "The underground warren where ancient Roman gladiators and animals awaited their fates has been restored.",
+    "url": "https://www.nytimes.com/2021/06/26/world/europe/colosseum-underground-opens.html",
+    "uri": "nyt://article/724e067a-369f-54b2-ac4c-3ab58875130b",
+    "byline": "By Elisabetta Povoledo",
+    "item_type": "Article",
+    "updated_date": "2021-06-27T16:35:44-04:00",
+    "created_date": "2021-06-26T13:16:15-04:00",
+    "published_date": "2021-06-26T13:16:15-04:00",
+    "material_type_facet": "",
+    "kicker": "",
+    "des_facet": [
+      "Historic Buildings and Sites",
+      "Restoration and Renovation",
+      "Colosseum (Rome)",
+      "Roman Civilization",
+      "Archaeology and Anthropology",
+      "Art"
+    ],
+    "org_facet": [],
+    "per_facet": [],
+    "geo_facet": ["Rome (Italy)"],
+    "multimedia": [
+      {
+        "url": "https://1static01.nyt.com/images/2021/06/26/world/26italy-colosseum01/merlin_189872118_2467eeff-a838-4505-a3ea-f5fcdc29fbf2-superJumbo.jpg",
+        "format": "superJumbo",
+        "height": 1365,
+        "width": 2048,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "The opening of the Colosseum’s underground corridors marks the end of the second of three phases of a multimillion-euro project.",
+        "copyright": "Filippo Monteforte/Agence France-Presse — Getty Images"
+      },
+      {
+        "url": "../img/s012v101.jpg",
+        "format": "Standard Thumbnail",
+        "height": 75,
+        "width": 75,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "The opening of the Colosseum’s underground corridors marks the end of the second of three phases of a multimillion-euro project.",
+        "copyright": "Filippo Monteforte/Agence France-Presse — Getty Images"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2021/06/26/world/26italy-colosseum01/merlin_189872118_2467eeff-a838-4505-a3ea-f5fcdc29fbf2-thumbLarge.jpg",
+        "format": "thumbLarge",
+        "height": 150,
+        "width": 150,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "The opening of the Colosseum’s underground corridors marks the end of the second of three phases of a multimillion-euro project.",
+        "copyright": "Filippo Monteforte/Agence France-Presse — Getty Images"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2021/06/26/world/26italy-colosseum01/merlin_189872118_2467eeff-a838-4505-a3ea-f5fcdc29fbf2-mediumThreeByTwo210.jpg",
+        "format": "mediumThreeByTwo210",
+        "height": 140,
+        "width": 210,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "The opening of the Colosseum’s underground corridors marks the end of the second of three phases of a multimillion-euro project.",
+        "copyright": "Filippo Monteforte/Agence France-Presse — Getty Images"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2021/06/26/world/26italy-colosseum01/merlin_189872118_2467eeff-a838-4505-a3ea-f5fcdc29fbf2-articleInline.jpg",
+        "format": "Normal",
+        "height": 127,
+        "width": 190,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "The opening of the Colosseum’s underground corridors marks the end of the second of three phases of a multimillion-euro project.",
+        "copyright": "Filippo Monteforte/Agence France-Presse — Getty Images"
+      }
+    ],
+    "short_url": "https://nyti.ms/35ThrdV"
+  },
+
+  {
+    "section": "dua",
+    "subsection": "europe",
+    "title": "DUA 7 - Colosseum Opens Its Belly to the Public step 2",
+    "abstract": "The underground warren where ancient Roman gladiators and animals awaited their fates has been restored.",
+    "url": "https://www.nytimes.com/2021/06/26/world/europe/colosseum-underground-opens.html",
+    "uri": "nyt://article/724e067a-369f-54b2-ac4c-3ab58875130b",
+    "byline": "By Elisabetta Povoledo",
+    "item_type": "Article",
+    "updated_date": "2021-06-27T16:35:44-04:00",
+    "created_date": "2021-06-26T13:16:15-04:00",
+    "published_date": "2021-06-26T13:16:15-04:00",
+    "material_type_facet": "",
+    "kicker": "",
+    "des_facet": [
+      "Historic Buildings and Sites",
+      "Restoration and Renovation",
+      "Colosseum (Rome)",
+      "Roman Civilization",
+      "Archaeology and Anthropology",
+      "Art"
+    ],
+    "org_facet": [],
+    "per_facet": [],
+    "geo_facet": ["Rome (Italy)"],
+    "multimedia": [
+      {
+        "url": "https://1static01.nyt.com/images/2021/06/26/world/26italy-colosseum01/merlin_189872118_2467eeff-a838-4505-a3ea-f5fcdc29fbf2-superJumbo.jpg",
+        "format": "superJumbo",
+        "height": 1365,
+        "width": 2048,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "The opening of the Colosseum’s underground corridors marks the end of the second of three phases of a multimillion-euro project.",
+        "copyright": "Filippo Monteforte/Agence France-Presse — Getty Images"
+      },
+      {
+        "url": "../img/s017v024.jpg",
+        "format": "Standard Thumbnail",
+        "height": 75,
+        "width": 75,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "The opening of the Colosseum’s underground corridors marks the end of the second of three phases of a multimillion-euro project.",
+        "copyright": "Filippo Monteforte/Agence France-Presse — Getty Images"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2021/06/26/world/26italy-colosseum01/merlin_189872118_2467eeff-a838-4505-a3ea-f5fcdc29fbf2-thumbLarge.jpg",
+        "format": "thumbLarge",
+        "height": 150,
+        "width": 150,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "The opening of the Colosseum’s underground corridors marks the end of the second of three phases of a multimillion-euro project.",
+        "copyright": "Filippo Monteforte/Agence France-Presse — Getty Images"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2021/06/26/world/26italy-colosseum01/merlin_189872118_2467eeff-a838-4505-a3ea-f5fcdc29fbf2-mediumThreeByTwo210.jpg",
+        "format": "mediumThreeByTwo210",
+        "height": 140,
+        "width": 210,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "The opening of the Colosseum’s underground corridors marks the end of the second of three phases of a multimillion-euro project.",
+        "copyright": "Filippo Monteforte/Agence France-Presse — Getty Images"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2021/06/26/world/26italy-colosseum01/merlin_189872118_2467eeff-a838-4505-a3ea-f5fcdc29fbf2-articleInline.jpg",
+        "format": "Normal",
+        "height": 127,
+        "width": 190,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "The opening of the Colosseum’s underground corridors marks the end of the second of three phases of a multimillion-euro project.",
+        "copyright": "Filippo Monteforte/Agence France-Presse — Getty Images"
+      }
+    ],
+    "short_url": "https://nyti.ms/35ThrdV"
+  },
+
+  {
+    "section": "dua",
+    "subsection": "europe",
+    "title": "DUA 8 - Colosseum Opens Its Belly to the Public step 2",
+    "abstract": "The underground warren where ancient Roman gladiators and animals awaited their fates has been restored.",
+    "url": "https://www.nytimes.com/2021/06/26/world/europe/colosseum-underground-opens.html",
+    "uri": "nyt://article/724e067a-369f-54b2-ac4c-3ab58875130b",
+    "byline": "By Elisabetta Povoledo",
+    "item_type": "Article",
+    "updated_date": "2021-06-27T16:35:44-04:00",
+    "created_date": "2021-06-26T13:16:15-04:00",
+    "published_date": "2021-06-26T13:16:15-04:00",
+    "material_type_facet": "",
+    "kicker": "",
+    "des_facet": [
+      "Historic Buildings and Sites",
+      "Restoration and Renovation",
+      "Colosseum (Rome)",
+      "Roman Civilization",
+      "Archaeology and Anthropology",
+      "Art"
+    ],
+    "org_facet": [],
+    "per_facet": [],
+    "geo_facet": ["Rome (Italy)"],
+    "multimedia": [
+      {
+        "url": "https://1static01.nyt.com/images/2021/06/26/world/26italy-colosseum01/merlin_189872118_2467eeff-a838-4505-a3ea-f5fcdc29fbf2-superJumbo.jpg",
+        "format": "superJumbo",
+        "height": 1365,
+        "width": 2048,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "The opening of the Colosseum’s underground corridors marks the end of the second of three phases of a multimillion-euro project.",
+        "copyright": "Filippo Monteforte/Agence France-Presse — Getty Images"
+      },
+      {
+        "url": "../img/s033v034.jpg",
         "format": "Standard Thumbnail",
         "height": 75,
         "width": 75,
